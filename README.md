@@ -20,12 +20,12 @@ Una versione light e personale della documentazione del framework Cheshire Cat A
 
 
 ## Altri contenuti
-- [Integration](docs/integration.md)
-- [Tools](docs/tools.md)
-- [Hooks](docs/hooks.md)
-- [Form](docs/form.md)
-- [Logging](docs/logging.md)
-- [Settings](docs/settings.md)
+- [Integration](integration.md)
+- [Tools](tools.md)
+- [Hooks](hooks.md)
+- [Form](form.md)
+- [Logging](logging.md)
+- [Settings](settings.md)
 
 ## Altro
 - https://cheshire-cat-ai.github.io/docs/framework/cat-components/cheshire_cat/stray_cat/
