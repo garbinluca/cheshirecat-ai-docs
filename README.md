@@ -1,5 +1,9 @@
 # CheshireCat AI Framework
 
+**This is not the official documentation :)**
+
+Una versione light e personale della documentazione del framework Cheshire Cat AI.
+
 ## Dictionary
 - `Episodic memory`: Memoria che contiene tutte le conversazioni precedenti. Quando viene fatta una domanda, il Gatto risponde prendendo le conversazioni all'interno l'account.
 - `Declarative memory`: memoria popolata tramite l'upload di documenti. Viene gestita dal Rabbit Hole
