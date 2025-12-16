@@ -1,6 +1,6 @@
 # CheshireCat AI Framework
 
-**⚠️⚠️ ️️This is not the official documentation ⚠️️⚠️**
+**⚠️⚠️ This is not the official documentation ⚠️️⚠️**
 
 Una versione light e personale della documentazione del framework Cheshire Cat AI.
 
