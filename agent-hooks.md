@@ -19,7 +19,7 @@ Riepilogo:
 | `cat`         | StrayCat | Istanza Cheshire Cat, consente di utilizzare i componenti del framework. |
 
 Il valore di `agent_input` sarà:
-````json
+````python
 {
     "input": working_memory.user_message_json.text,  # user's message
     "episodic_memory": episodic_memory_formatted_content,  # strings with documents recalled from memories
