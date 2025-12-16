@@ -19,13 +19,20 @@ Una versione light e personale della documentazione del framework Cheshire Cat A
 - [UniBO spiegazione](https://amslaurea.unibo.it/id/eprint/33476/1/CHESHIRE_CAT_AI_FRAMEWORK_PER_LA_REALIZZAZIONE_DI_CHATBOT_SPECIALIZZATI.pdf)
 
 
-## Altri contenuti
+## Strumenti
 - [Integration](integration.md)
 - [Tools](tools.md)
 - [Hooks](hooks.md)
 - [Form](form.md)
 - [Logging](logging.md)
 - [Settings](settings.md)
+
+## Hooks
+- [Flow](flow-hooks.md)
+- [Agent](agent-hooks.md)
+
+## Esempi
+- [Esempi base](examples/simple.md)
 
 ## Altro
 - https://cheshire-cat-ai.github.io/docs/framework/cat-components/cheshire_cat/stray_cat/
