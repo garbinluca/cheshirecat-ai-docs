@@ -18,18 +18,28 @@ Una versione light e personale della documentazione del framework Cheshire Cat A
 - [This plugin](https://github.com/pieroit/meow-todo-list/blob/main/meow_todo_list.py) to learn how to do a todo list.
 - [UniBO spiegazione](https://amslaurea.unibo.it/id/eprint/33476/1/CHESHIRE_CAT_AI_FRAMEWORK_PER_LA_REALIZZAZIONE_DI_CHATBOT_SPECIALIZZATI.pdf)
 
+## Componenti
+- [The Stray Cat](components/stray-cat.md)
+- [Agent](components/agent.md)
+- [Prompt](components/prompt.md)
+- [Vector memory](components/vector-memory.md)
+- [Long term memory](components/long-term-memory.md)
+- [Working memory](components/working-memory.md)
+- [Rabbit Hole](components/rabbit-hole.md)
+- [White Rabbit](components/white-rabbit.md)
+- [Mad Hatter](components/mad-hatter.md)
 
 ## Strumenti
-- [Integration](integration.md)
-- [Tools](tools.md)
-- [Hooks](hooks.md)
-- [Form](form.md)
-- [Logging](logging.md)
-- [Settings](settings.md)
+- [Integration](struments/integration.md)
+- [Tools](struments/tools.md)
+- [Hooks](struments/hooks.md)
+- [Form](struments/form.md)
+- [Logging](struments/logging.md)
+- [Settings](struments/settings.md)
 
 ## Hooks
-- [Flow](flow-hooks.md)
-- [Agent](agent-hooks.md)
+- [Flow](hooks/flow.md)
+- [Agent](hooks/agent.md)
 
 ## Esempi
 - [Esempi base](examples/simple.md)
